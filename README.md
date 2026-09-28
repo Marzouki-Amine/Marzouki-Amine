@@ -40,7 +40,7 @@ I'm a telecommunications engineering student exploring the intersection of **cyb
 
 ## 📚 Featured Projects
 
-### [Python Security Scripts](https://github.com/Marzouki-Amine/Port-scanner)
+### [Python Port Scanner](https://github.com/Marzouki-Amine/Port-scanner)
 Collection of simple security tools I'm building to learn.
 - **Tech:** Python
 - **Includes:** Port scanner, password strength checker, basic network tools
